@@ -1,3 +1,5 @@
+## NAME: A K PREETHI
+## REG NO:212223230156
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
